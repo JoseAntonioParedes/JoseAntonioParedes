@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on MVC5 .NET Web solutions and I would like to evolve to Angular JS technologies.
 
-🌱 I’m currently learning DevOps architectures and technologies like Kubernetes, Jenkins... 
+🌱 I’m currently learning DevOps architectures and technologies like Kubernetes, Jenkins... Ansible and Bamboo were my first contact on these matters.
 
 ⚡ Fun fact: I studied and graduated on Philosophy before applying for developing jobs.
 
