@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on MVC5 .NET Web solutions and I would like to evolve to Angular JS technologies. 
+🔭 I’m currently working on MVC5 .NET Web solutions and I would like to evolve to Angular JS technologies.
 
 🌱 I’m currently learning DevOps architectures and technologies like Kubernetes, Jenkins... 
+
+⚡ Fun fact: I studied and obtained a Philosophy degree before apply for developing jobs.
 
 <!--
 **JoseAntonioParedes/JoseAntonioParedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
