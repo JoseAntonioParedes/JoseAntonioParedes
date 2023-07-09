@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🔭 I’m currently working on MVC5 .NET Web solutions and I would like to evolve to Angular JS technologies. 
 🌱 I’m currently learning DevOps architectures and technologies like Kubernetes, Jenkins... 
 
 <!--
