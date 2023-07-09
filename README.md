@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning DevOps architectures and technologies like Kubernetes, Jenkins... 
 
-⚡ Fun fact: I studied and obtained a Philosophy degree before apply for developing jobs.
+⚡ Fun fact: I studied and graduated on Philosophy before applying for developing jobs.
 
 <!--
 **JoseAntonioParedes/JoseAntonioParedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
