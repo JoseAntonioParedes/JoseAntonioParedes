@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on MVC5 .NET Web solutions and I would like to evolve to Angular JS technologies.
+🔭 I’m currently working on .NET MVC Web solutions and I would like to evolve to SPA technologies (Angular or Blazor).
 
-🌱 I’m currently learning DevOps architectures and technologies like Kubernetes, Jenkins... Ansible and Bamboo were my first contact elements on these matters.
+🌱 I’m allways improving on DevOps (Ansible with Bamboo), Modern Architectures (DDD, Hexagonal...) and Management.
 
 ⚡ Fun fact: I studied and graduated on Philosophy before applying for developing jobs.
 
